@@ -1,1 +1,1 @@
-# Cybathlon---Vision-Assistance-Race
+# Cybathlon Vision Assistance Race
